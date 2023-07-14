@@ -70,7 +70,7 @@ Here are some free resources and certifications that can help you in your journe
 ### Free Certifications:
 - [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/): Validates foundational knowledge of AWS cloud services.
 - [Google Cloud Platform Fundamentals](https://cloud.google.com/certification/cloud-engineer): Covers the core concepts and services of Google Cloud Platform.
-- [Microsoft Azure Fundamentals](https://docs
+- [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/): Information on Azure fundamentals 
 
 .microsoft.com/en-us/learn/certifications/azure-fundamentals): Introduces fundamental concepts of Azure cloud services.
 - [Oracle Foundations Associate](https://education.oracle.com/oci-foundations-2021-associate/pexam_1Z0-1085): Covers Oracle Cloud Infrastructure concepts and services.
