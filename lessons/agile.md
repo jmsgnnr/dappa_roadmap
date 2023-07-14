@@ -33,6 +33,7 @@ In an Agile mindset, you break down your journey into small, manageable chunks. 
 IT Project Management goes beyond Agile frameworks and encompasses a broader scope of project management in the tech industry. Explore the principles and practices of managing technology projects, including planning, executing, and controlling projects to deliver successful outcomes.
 
 :play_or_pause_button: **Click Image below to watch video # 2**
+
 [![Agile Vid](http://img.youtube.com/vi/5_PuobVHeLg/0.jpg)](https://www.youtube.com/watch?v=5_PuobVHeLg "What is Agile Methodology?")
 
 
