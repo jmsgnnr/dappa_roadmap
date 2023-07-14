@@ -5,17 +5,15 @@
 - [Lesson 1 : Roadmap to IT Project Management](#lesson-1--roadmap-to-technical-project-management)
       - [Table of Contents](#table-of-contents)
   - [1. What is Agile?](#1-what-is-agile)
+    - [Agile Video (Youtube)](#play_or_pause_buttonclick-image-below-to-watch-video-1)
   - [2. Understanding Your New Role in Project Management](#2-understanding-your-new-role-in-project-management)
+    - [IT Project Management (Youtube) ](#play_or_pause_button-video-2)
   - [Adjacent Roles](#adjacent-roles)
   - [3. The Role of a IT Project Manager](#3-the-role-of-a-it-project-manager)
   - [4. Day-to-Day Responsibilities](#4-day-to-day-responsibilities)
   - [5. Recommended Resources](#5-recommended-resources)
 
 ## 1. What is Agile?
-
-:play_or_pause_button: **Click Image below to watch video #1**
-
-[![Project Manager](http://img.youtube.com/vi/8eVXTyIZ1Hs/0.jpg)](https://www.youtube.com/watch?v=8eVXTyIZ1Hs "What is Agile Methodology?")
 
 
 ### **An Agile Roadtrip**:car::cloud:
@@ -25,16 +23,18 @@ Agile is like having a GPS navigation system for your road trip. You have a gene
 
 In an Agile mindset, you break down your journey into small, manageable chunks. You set short-term goals or milestones, like reaching the next city or landmark, rather than planning the entire trip upfront. You regularly assess your progress, get feedback from your friends, and make course corrections as needed.
 
+#### :play_or_pause_button:**Click below to watch Video #1**
+
+[![Agile Info](http://img.youtube.com/vi/8eVXTyIZ1Hs/0.jpg)](https://www.youtube.com/watch?v=8eVXTyIZ1Hs "What is Agile Methodology?")
+
 
 ## 2. Understanding Your New Role in Project Management
 
-
-
 IT Project Management goes beyond Agile frameworks and encompasses a broader scope of project management in the tech industry. Explore the principles and practices of managing technology projects, including planning, executing, and controlling projects to deliver successful outcomes.
 
-:play_or_pause_button: **Click Image below to watch video # 2**
+#### :play_or_pause_button: Video #2
 
-[![Agile Vid](http://img.youtube.com/vi/5_PuobVHeLg/0.jpg)](https://www.youtube.com/watch?v=5_PuobVHeLg "What is Agile Methodology?")
+[![Project Managers](http://img.youtube.com/vi/5_PuobVHeLg/0.jpg)](https://www.youtube.com/watch?v=5_PuobVHeLg "Real World Testimonies")
 
 
 ## 3. The Role of a IT Project Manager
