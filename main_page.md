@@ -1,4 +1,4 @@
-# Career Roadmap for Daniel👩‍💻🚀
+# Career Roadmap for "Dappa" Daniel👩‍💻🚀
 ![Tech Role](image.jpg)
 
 ## Strategic Goals 🎯
