@@ -13,7 +13,9 @@
 
 ## 1. What is Agile?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8eVXTyIZ1Hs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:play_or_pause_button: **Click Image below to watch video #1**
+
+[![Project Manager](http://img.youtube.com/vi/8eVXTyIZ1Hs/0.jpg)](https://www.youtube.com/watch?v=8eVXTyIZ1Hs "What is Agile Methodology?")
 
 
 ### **An Agile Roadtrip**:car::cloud:
@@ -30,7 +32,8 @@ In an Agile mindset, you break down your journey into small, manageable chunks. 
 
 IT Project Management goes beyond Agile frameworks and encompasses a broader scope of project management in the tech industry. Explore the principles and practices of managing technology projects, including planning, executing, and controlling projects to deliver successful outcomes.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5_PuobVHeLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:play_or_pause_button: **Click Image below to watch video # 2**
+[![Agile Vid](http://img.youtube.com/vi/5_PuobVHeLg/0.jpg)](https://www.youtube.com/watch?v=5_PuobVHeLg "What is Agile Methodology?")
 
 
 ## 3. The Role of a IT Project Manager
