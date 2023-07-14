@@ -41,7 +41,7 @@ IT Project Management goes beyond Agile frameworks and encompasses a broader sco
 
 As a IT Project Manager, you will be responsible for overseeing the entire project lifecycle. Understand the key responsibilities, such as stakeholder management, resource allocation, risk identification and mitigation, and ensuring timely delivery. Gain insights into the importance of effective communication and collaboration with team members, stakeholders, and clients.
 
-![SDLC](sdlc.jpg)
+![SDLC](SDLC.jpg)
 
 #### Adjacent Roles:
 - **Iteration Manager:** An Iteration Manager, also known as an Agile Project Manager or Delivery Manager, focuses on managing the iteration or sprint cycle. They facilitate the planning, coordination, and execution of iterations, ensuring that teams are aligned, tasks are on track, and impediments are addressed.
