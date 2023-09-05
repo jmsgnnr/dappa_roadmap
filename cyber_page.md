@@ -1,6 +1,8 @@
-# Career Roadmap for Jude :bulb:
 
-![Tech Role](cyber.png)
+## :computer:Cybersecurity Career Path for Adults:car:
+
+![2-Year Career Roadmap](cybah1.png)
+
 #### 1. **Obtain Recognized Certifications for Entry-Level Cybersecurity Professionals:**
 
    - [CompTIA Security+ (Free Study Materials)](https://www.linkedin.com/learning/topics/comptia?src=go-pa&trk=sem-ga_campid.11272822688_asid.110000966305_crid.470642844125_kw.comptia%20courses_d.c_tid.kwd-185271972_n.g_mt.p_geo.9028724&mcid=6841886150127296638&cid=&gclid=CjwKCAjw04yjBhApEiwAJcvNoYq9OAD2WiB4h4E1f-hx2gsP4Zlbjnhocwg0Mga76FU-faqi_wqQJRoCZD4QAvD_BwE&gclsrc=aw.ds)
@@ -67,3 +69,5 @@ Remember to regularly check websites and platforms for updates on upcoming event
 :mag: **Incident Response**:detective:: Resembles digital detective work in the cybersecurity world. As a cyber investigator, you'll respond to security breaches, identify cyber threats, and gather evidence to catch perpetrators.
 
 :key: **Penetration Testing**:bug:: Like being a digital spy on the right side. Authorized to ethically hack into systems and networks to discover vulnerabilities before malicious hackers do. Involves thinking like a hacker to help organizations enhance security.
+
+_Remember, each specialization presents unique challenges and opportunities. Exploring these areas allows you to delve deeper
